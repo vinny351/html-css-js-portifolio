@@ -319,6 +319,7 @@ section {
 /* Seção Experiencia */
 
 #experience {
+  height: 50vh;
   position: relative;
 }
 
@@ -340,7 +341,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
+  gap: 3rem;
   justify-content: space-around;
 }
 
